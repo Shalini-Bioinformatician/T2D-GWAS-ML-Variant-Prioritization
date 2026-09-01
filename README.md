@@ -29,7 +29,7 @@ Multi-ancestry Type 2 Diabetes GWAS analysis with variant annotation, machine le
 ## Limitations
 
 ## Citation
-## Planned Structure
+## 📁 Planned Structure
 
 ```text
 T2D-GWAS-ML-Variant-Prioritization/
