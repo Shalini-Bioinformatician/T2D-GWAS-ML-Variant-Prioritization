@@ -1,94 +1,174 @@
-# T2D-GWAS-ML-Variant-Prioritization
-Multi-ancestry Type 2 Diabetes GWAS analysis with variant annotation, machine learning, SHAP-based interpretation, and candidate variant prioritization.
 # Integrative Genomic Variant Prioritization for Type 2 Diabetes
+
+## Multi-Ancestry GWAS, Variant Annotation, Machine Learning, SHAP Interpretation, External GWAS Evidence, and Robust Candidate Prioritization
+
+---
 
 ## Overview
 
-## Research Question
+Type 2 Diabetes (T2D) is a complex metabolic disease influenced by genetic, environmental, and lifestyle factors. Genome-wide association studies (GWAS) have identified thousands of variants associated with T2D and related metabolic traits, but identifying the variants most likely to have functional and biological relevance remains challenging.
 
-## Objectives
+This project develops an **integrative computational framework for prioritizing candidate genetic variants associated with Type 2 Diabetes**.
 
-## Dataset
+The framework combines:
 
-## Workflow
+- Multi-ancestry T2D GWAS evidence
+- Variant-level quality control and preprocessing
+- Effect-size transformation
+- P-value transformation
+- Minor allele frequency (MAF)
+- Ensembl Variant Effect Predictor (VEP) annotation
+- Protein-altering consequence prediction
+- Machine learning
+- Cross-validation
+- Random Forest analysis
+- Feature ablation analysis
+- Threshold optimization
+- Explainable AI using SHAP
+- GWAS Catalog external evidence
+- Cross-trait evidence integration
+- Candidate-level biological interpretation
+- Sensitivity analysis
+- Rank stability analysis
+- Final candidate prioritization
 
-## Methods
+The objective is not simply to identify statistically significant variants, but to determine which variants show the **strongest combination of genetic association, functional annotation, machine-learning support, external GWAS evidence, and robustness**.
 
-## Machine Learning
+---
 
-## Explainable AI / SHAP
+# Research Question
 
-## Candidate Prioritization
+> **Can an integrative machine-learning and evidence-based framework prioritize genetically and biologically plausible Type 2 Diabetes candidate variants from multi-ancestry GWAS data?**
 
-## Key Results
+A secondary objective is to determine whether integrating independent GWAS evidence and functional annotation can identify candidates that may be missed by a machine-learning model based on a single evidence source.
 
-## Repository Structure
+---
 
-## Reproducibility
+# Objectives
 
-## Limitations
+### Primary Objective
 
-## Citation
-## 📁 Repository Structure
+Develop a reproducible computational pipeline for prioritizing candidate T2D variants using multiple complementary evidence sources.
+
+### Specific Objectives
+
+1. Process and quality-control T2D GWAS summary statistics.
+2. Engineer informative variant-level features.
+3. Annotate variants using Ensembl VEP.
+4. Identify protein-altering variants and functional consequences.
+5. Construct a machine-learning dataset.
+6. Train and evaluate predictive models.
+7. Compare alternative feature sets and models.
+8. Optimize the classification threshold.
+9. Apply SHAP for model interpretation.
+10. Identify machine-learning-supported candidate variants.
+11. Integrate external GWAS Catalog evidence.
+12. Classify evidence across T2D-related traits.
+13. Construct an integrated candidate evidence score.
+14. Evaluate false-positive and false-negative candidates.
+15. Perform sensitivity and rank-stability analysis.
+16. Generate a final ranked candidate list.
+17. Identify robust high-priority candidates.
+
+---
+
+# Dataset
+
+## Primary GWAS Dataset
+
+The primary dataset is derived from the multi-ancestry Type 2 Diabetes GWAS resource associated with:
+
+**Suzuki et al., Nature, 2024**
+
+The analysis uses the relevant supplementary GWAS information and index-signal information for downstream variant prioritization.
+
+The processed project dataset contains **1,289 index signals across 611 unique loci** in the ST4-based analysis.
+
+---
+
+## External GWAS Evidence
+
+External genetic evidence was incorporated using GWAS Catalog associations.
+
+The external evidence was classified into categories including:
+
+- Direct T2D associations
+- Glycemic traits
+- Metabolic traits
+- Lipid/cardiovascular traits
+- Other T2D-related evidence
+
+This provides an independent evidence layer beyond the primary GWAS and machine-learning model.
+
+---
+
+# Analytical Workflow
 
 ```text
-T2D-GWAS-ML-Variant-Prioritization/
-│
-├── README.md
-│
-├── data_reference/
-│   └── README.md
-│
-├── scripts/
-│   ├── st4_cleaning.py
-│   ├── parse.py
-│   ├── effect_size.py
-│   ├── logp.py
-│   ├── maf.py
-│   ├── annotation.py
-│   ├── full_annotation.py
-│   ├── phase9_final_safe_model.py
-│   ├── phase10B_SHAP_interpretability.py
-│   ├── phase11A_candidate_prioritization.py
-│   ├── phase11C_3_external_evidence_scoring.py
-│   ├── phase11C_4_integrated_candidate_evidence.py
-│   ├── phase11D_complete_candidate_prioritization.py
-│   ├── phase12_final_validation_robustness.py
-│   ├── phase13_final_visualization.py
-|   ├── phase13_figure4_discordance.py
-│   └── ...
-│
-├── results/
-│   ├── phase11C_external_validation_summary.tsv
-│   ├── phase11C_external_GWAS_evidence_ranking.tsv
-│   ├── phase11C_integrated_candidate_evidence.tsv
-│   ├── phase11C_integrated_candidate_ranking.tsv
-│   ├── T2D_phase11D_final_candidate_ranking.tsv
-│   ├── T2D_phase11D_final_candidate_shortlist.tsv
-|   ├── T2D_phase11D_model_biology_discordance.tsv
-│   ├── phase12_rank_stability.tsv
-│   ├── Phase10B_Model_Reproduction_Coefficient_Check.tsv
-│   ├── Phase10B_SHAP_Feature_Importance.tsv
-│   ├── Phase10B_SHAP_QC_Summary.tsv
-│   ├── Phase10B_SHAP_Test_Set_Values.tsv
-│   ├── phase14_figure_qc.tsv
-│
-├── tables/
-│   └── Phase10B_Candidate_SHAP_Explanations.tsv
-│
-├── figures/
-│   ├── Figure_1_Final_Candidate_Ranking.png
-│   ├── Figure_2_Integrated_Evidence_Components.png
-│   ├── Figure_3_External_GWAS_Evidence.png
-│   ├── Figure_4_Model_Biology_Discordance.png
-│   ├── Figure_4B_Discordant_Candidate_Evidence.png
-│   ├── Figure_5_Final_Evidence_Heatmap.png
-│   ├── Figure_6_Final_Priority_Distribution.png
-│   ├── Figure_7_Sensitivity_Rank_Stability.png
-│   ├── Figure_10B_1_SHAP_Global_Importance.png
-│   └── Figure_10B_2_SHAP_Beeswarm.png
-│
-└── docs/
-    ├── PROJECT_STRUCTURE.txt
-    ├── PROJECT_REPRODUCIBILITY_MANIFEST.tsv
-    └── ...
+Primary T2D GWAS
+       │
+       ▼
+Data Cleaning & QC
+       │
+       ▼
+Effect Size Processing
+       │
+       ▼
+P-value Transformation
+       │
+       ▼
+MAF Calculation
+       │
+       ▼
+Variant Feature Engineering
+       │
+       ▼
+VEP Functional Annotation
+       │
+       ▼
+Protein-Altering Feature Construction
+       │
+       ▼
+Machine-Learning Dataset
+       │
+       ├──────────────► Baseline Model
+       │
+       ├──────────────► Cross-Validation
+       │
+       ├──────────────► Random Forest
+       │
+       ├──────────────► Feature Comparison
+       │
+       ├──────────────► Ablation Analysis
+       │
+       └──────────────► Threshold Optimization
+       │
+       ▼
+Final Safe Model
+       │
+       ▼
+SHAP Interpretation
+       │
+       ▼
+Initial Candidate Prioritization
+       │
+       ▼
+External GWAS Catalog Evidence
+       │
+       ▼
+Cross-Trait Evidence Integration
+       │
+       ▼
+Integrated Candidate Ranking
+       │
+       ▼
+Biological Validation
+       │
+       ▼
+Final Candidate Prioritization
+       │
+       ▼
+Sensitivity & Rank Stability
+       │
+       ▼
+Final Robust Candidate Set
