@@ -29,7 +29,7 @@ Multi-ancestry Type 2 Diabetes GWAS analysis with variant annotation, machine le
 ## Limitations
 
 ## Citation
-## 📁 Planned Structure
+## 📁 Repository Structure
 
 ```text
 T2D-GWAS-ML-Variant-Prioritization/
@@ -55,6 +55,7 @@ T2D-GWAS-ML-Variant-Prioritization/
 │   ├── phase11D_complete_candidate_prioritization.py
 │   ├── phase12_final_validation_robustness.py
 │   ├── phase13_final_visualization.py
+|   ├── phase13_figure4_discordance.py
 │   └── ...
 │
 ├── results/
@@ -64,9 +65,13 @@ T2D-GWAS-ML-Variant-Prioritization/
 │   ├── phase11C_integrated_candidate_ranking.tsv
 │   ├── T2D_phase11D_final_candidate_ranking.tsv
 │   ├── T2D_phase11D_final_candidate_shortlist.tsv
+|   ├── T2D_phase11D_model_biology_discordance.tsv
 │   ├── phase12_rank_stability.tsv
+│   ├── Phase10B_Model_Reproduction_Coefficient_Check.tsv
 │   ├── Phase10B_SHAP_Feature_Importance.tsv
-│   └── ...
+│   ├── Phase10B_SHAP_QC_Summary.tsv
+│   ├── Phase10B_SHAP_Test_Set_Values.tsv
+│   ├── phase14_figure_qc.tsv
 │
 ├── tables/
 │   └── Phase10B_Candidate_SHAP_Explanations.tsv
