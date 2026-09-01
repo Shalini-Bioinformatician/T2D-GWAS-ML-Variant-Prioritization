@@ -1,5 +1,34 @@
 # T2D-GWAS-ML-Variant-Prioritization
 Multi-ancestry Type 2 Diabetes GWAS analysis with variant annotation, machine learning, SHAP-based interpretation, and candidate variant prioritization.
+# Integrative Genomic Variant Prioritization for Type 2 Diabetes
+
+## Overview
+
+## Research Question
+
+## Objectives
+
+## Dataset
+
+## Workflow
+
+## Methods
+
+## Machine Learning
+
+## Explainable AI / SHAP
+
+## Candidate Prioritization
+
+## Key Results
+
+## Repository Structure
+
+## Reproducibility
+
+## Limitations
+
+## Citation
 ## Planned Structure
 
 ```text
