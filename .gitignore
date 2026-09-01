@@ -216,3 +216,30 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local environments
+ml_env/
+.conda/
+conda-env/
+miniconda3/
+
+# Large raw GWAS data
+*.txt
+All_Metal_LDSC-CORR_Neff.v2.txt
+
+# Raw/large compressed datasets
+*.zip
+*.gz
+*.bgz
+
+# Temporary/intermediate files
+*.tmp
+*.temp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local project folders
+T2D_GWAS_ML_Final_Project/
+!reports/PROJECT_STRUCTURE.txt

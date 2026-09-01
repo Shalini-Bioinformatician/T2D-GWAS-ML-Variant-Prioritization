@@ -1,0 +1,12 @@
+Metric	Value
+Dataset_rows	1289
+Dataset_columns	45
+Number_of_features	25
+Training_samples	1031
+Test_samples	258
+SHAP_samples	258
+Prediction_reproduction	PASS
+Coefficient_reproduction	PASS
+Maximum_probability_difference	1.1102230246251565e-16
+Maximum_coefficient_difference	2.220446049250313e-16
+SHAP_version	0.52.0

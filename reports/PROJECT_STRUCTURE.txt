@@ -1,0 +1,69 @@
+T2D GWAS ML FINAL PROJECT
+=========================
+
+scripts/
+    Catalog_Trait_Classification.py
+    Threshold_optimization.py
+    ablation_analysis.py
+    annotate_missing_snps.py
+    annotation.py
+    annotation_QC.py
+    baseline.py
+    candidate_panel.py
+    combine_vep_annotations.py
+    create_vep_snp_features.py
+    cross_validation.py
+    effect_size.py
+    feature_set_comparison.py
+    full_annotation.py
+    logp.py
+    maf.py
+    merge.py
+    parse.py
+    phase10B_SHAP_interpretability.py
+    phase11A_candidate_prioritization.py
+    phase11C_3_external_evidence_scoring.py
+    phase11C_4_integrated_candidate_evidence.py
+    phase11D_complete_candidate_prioritization.py
+    phase11_model_comparison.py
+    phase12_final_validation_robustness.py
+    phase13_figure4_discordance.py
+    phase13_final_visualization.py
+    phase14_project_organization.py
+    phase9_final_safe_model.py
+    random_forest.py
+    st4_cleaning.py
+results/
+    Phase10B_Model_Reproduction_Coefficient_Check.tsv
+    Phase10B_SHAP_Feature_Importance.tsv
+    Phase10B_SHAP_QC_Summary.tsv
+    Phase10B_SHAP_Test_Set_Values.tsv
+    T2D_phase11D_final_candidate_ranking.tsv
+    T2D_phase11D_final_candidate_shortlist.tsv
+    T2D_phase11D_model_biology_discordance.tsv
+    phase11C_external_GWAS_evidence_ranking.tsv
+    phase11C_external_validation_summary.tsv
+    phase11C_integrated_candidate_evidence.tsv
+    phase11C_integrated_candidate_ranking.tsv
+    phase12_rank_stability.tsv
+    phase14_figure_qc.tsv
+figures/
+    Figure_10B_1_SHAP_Global_Importance.png
+    Figure_10B_2_SHAP_Beeswarm.png
+    Figure_1_Final_Candidate_Ranking.png
+    Figure_2_Integrated_Evidence_Components.png
+    Figure_3_External_GWAS_Evidence.png
+    Figure_4B_Discordant_Candidate_Evidence.png
+    Figure_4_Model_Biology_Discordance.png
+    Figure_5_Final_Evidence_Heatmap.png
+    Figure_6_Final_Priority_Distribution.png
+    Figure_7_Sensitivity_Rank_Stability.png
+tables/
+    Phase10B_Candidate_SHAP_Explanations.tsv
+    T2D_Final_Project_Candidate_Summary.tsv
+    T2D_Model_Biology_Discordance_Summary.tsv
+    T2D_Top10_Final_Candidates.tsv
+docs/
+    PROJECT_REPRODUCIBILITY_MANIFEST.tsv
+    PROJECT_STRUCTURE.txt
+data_reference/

@@ -1,0 +1,3 @@
+Index_SNV	Locus	Chromosome	Position_b37	Risk_Allele	Other_Allele	Risk_Allele_Frequency	OR	MR_MEGA_Association_P	neg_log10_P	MAF	MAF_category	Primary_gene	Primary_biotype	Most_severe_consequence	Has_protein_altering	Predicted_label	Protein_altering_probability	Candidate_Category
+rs5215	KCNJ11, ABCC8 	11	17408630	C	T	0.3499	1.069	1.39797973714948e-107	106.85449912337428	0.3499	Common	KCNJ11	protein_coding	missense_variant	1	0	0.3736298210790948	False_Negative
+rs17857291	AOC1	7	150812683	G	A	0.75485	1.021	4.68160923309646e-08	7.3296048390358814	0.2451499999999999	Common	AGAP3	protein_coding	missense_variant	1	0	0.1034965437534494	False_Negative

@@ -1,0 +1,1290 @@
+SNP	Gene_count	Transcript_count	Biotype_count	Is_coding	Is_missense	Is_synonymous	Is_stop_gained	Is_intronic	Is_intergenic	Is_upstream	Is_downstream	Is_5UTR	Is_3UTR	Is_regulatory	Is_splice	Has_HIGH_impact	Has_MODERATE_impact	Has_LOW_impact	Has_MODIFIER_impact	Has_protein_altering	Most_severe_consequence	Primary_gene	Primary_biotype
+rs10006596	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LINC01098	protein_coding
+rs10048404	1	4	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	WDR7	protein_coding
+rs10086521	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	XKR6	protein_coding
+rs10087481	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10088883	2	5	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SLC30A8	protein_coding
+rs10092900	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs1009321	1	5	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	GOLGA3	protein_coding
+rs10096191	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-1102P16.1	protein_coding
+rs10096860	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10113902	1	6	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FIBCD1	protein_coding
+rs10116566	1	5	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ZNF618	protein_coding
+rs10121760	1	14	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	C9orf3	protein_coding
+rs1012311	2	26	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	SLC8A1	protein_coding
+rs10130013	1	8	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	DCAF5	protein_coding
+rs10147577	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10149083	2	13	4	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	SRP54	protein_coding
+rs10152999	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-624L4.1	antisense
+rs10174715	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10180252	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs10184004	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	COBLL1	processed_transcript
+rs10193189	2	5	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	PNKD	protein_coding
+rs10198943	1	2	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	DNAH7	protein_coding
+rs10201401	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CAMKMT	protein_coding
+rs10214450	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	CYCSP55	processed_pseudogene
+rs1021509	3	3	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	RP11-252P19.2	lincRNA
+rs10219589	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs1022736	2	3	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	TRMT61A	protein_coding
+rs10231441	1	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SEMA3D	protein_coding
+rs10232743	2	11	4	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	upstream_gene_variant	URGCP	protein_coding
+rs10249231	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10259561	1	6	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	TOMM7	protein_coding
+rs1029016	1	11	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	BNC2	protein_coding
+rs10305457	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	GLP1R	protein_coding
+rs10401019	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SUMO2	protein_coding
+rs10406431	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	RN7SL836P	misc_RNA
+rs10416539	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	INSR	protein_coding
+rs10427109	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	INSR	protein_coding
+rs1043246	1	13	2	1	1	0	0	0	0	0	1	0	1	0	0	0	1	0	1	1	missense_variant	ATP2A3	protein_coding
+rs10433674	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs1044531	2	8	2	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	AKNA	protein_coding
+rs1046521	1	2	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	NRBF2	protein_coding
+rs1047210	2	15	2	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	TRIM59	protein_coding
+rs1047507	2	4	2	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	SOX12	protein_coding
+rs1048155	3	6	4	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	BHLHE41	protein_coding
+rs1048317	1	9	3	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	NF1	protein_coding
+rs10488913	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10490563	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10496386	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10499	2	8	2	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	ATP2A1	protein_coding
+rs10519049	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10520699	3	20	5	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	PRC1	protein_coding
+rs1053924	3	236	4	0	0	0	0	1	0	1	1	1	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	PRRT1	protein_coding
+rs1056441	4	29	3	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	ZBTB46	protein_coding
+rs10743108	1	6	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	missense_variant	ZNF143	protein_coding
+rs10744146	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10748694	2	7	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	ARHGAP19-SLIT1	protein_coding
+rs10758321	1	2	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	RP11-112J3.16	lincRNA
+rs10784067	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10787798	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	RP11-355F22.1	lincRNA
+rs10788495	1	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	GRID1	protein_coding
+rs10789175	1	8	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AK4	protein_coding
+rs10811661	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10813516	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10821304	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10830963	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MTNR1B	protein_coding
+rs10842708	4	4	2	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	RP11-513G19.1	antisense
+rs10842991	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	RN7SKP15	misc_RNA
+rs10848958	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10849094	1	6	4	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	DYRK4	nonsense_mediated_decay
+rs10849893	1	14	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KDM2B	nonsense_mediated_decay
+rs10852284	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AQP8	protein_coding
+rs10853047	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ERN1	protein_coding
+rs10858821	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-13A1.3	lincRNA
+rs10864859	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	AC018866.1	lincRNA
+rs10877892	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	RP11-631N16.2	antisense
+rs10879248	2	2	2	0	0	0	0	1	0	0	0	0	0	0	1	0	0	1	1	0	splice_region_variant	CTD-2021H9.2	sense_intronic
+rs10886863	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10891494	1	21	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	NCAM1	protein_coding
+rs10893829	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs10916784	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LINC01141	lincRNA
+rs10919896	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	RP11-532L16.1	processed_pseudogene
+rs10920270	2	4	2	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	upstream_gene_variant	IPO9	protein_coding
+rs10927878	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	TBC1D3P6	unprocessed_pseudogene
+rs10933138	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10938397	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10943822	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	EEF1B2P5	unprocessed_pseudogene
+rs10950177	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-3P22.2	lincRNA
+rs10950494	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	AC005019.3	lincRNA
+rs10955992	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10970761	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs10992408	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs11002892	1	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ZMIZ1	protein_coding
+rs1101330	2	16	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	UBA52P6	processed_pseudogene
+rs11020132	1	3	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	MTNR1B	protein_coding
+rs11023938	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KCNQ1	protein_coding
+rs11031140	2	5	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	MPPED2	protein_coding
+rs11045247	1	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PDE3A	protein_coding
+rs11049114	1	5	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	MRPS35	protein_coding
+rs11051394	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs11057418	1	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FAM101A	protein_coding
+rs1105770	1	7	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	TNFAIP8	protein_coding
+rs11063029	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs11074446	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	SNRPEP3	processed_pseudogene
+rs11077654	1	6	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SLC39A11	protein_coding
+rs11078916	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs11083785	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	MYPOP	protein_coding
+rs1108646	1	10	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TOM1L2	protein_coding
+rs1109772	1	5	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KCNK16	protein_coding
+rs11114650	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LIN7A	nonsense_mediated_decay
+rs11120157	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-554K11.2	lincRNA
+rs11120291	1	10	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	SRGAP2	protein_coding
+rs11124906	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs11148426	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs11150745	1	7	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RPTOR	protein_coding
+rs11155284	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs111564329	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CDKAL1	protein_coding
+rs11165431	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs11187151	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs11195508	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs11196122	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs11196216	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs11199755	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs112220894	2	24	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	BDNF	protein_coding
+rs112297357	1	6	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	ITGA3	protein_coding
+rs11230823	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs1124699	3	9	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	IGF2	protein_coding
+rs112515915	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-127H5.1	protein_coding
+rs11257562	1	12	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	SEC61A2	protein_coding
+rs11257655	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	RN7SL232P	misc_RNA
+rs11258435	2	4	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	BEND7	protein_coding
+rs112694314	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs1127215	1	2	2	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	PTGFRN	protein_coding
+rs11277	1	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	SLC30A1	protein_coding
+rs112845208	2	5	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	HNF4A	protein_coding
+rs113154802	2	7	4	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	PTCH1	protein_coding
+rs113345285	1	7	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PPP1R13B	protein_coding
+rs113748381	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs113810193	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	AKTIP	protein_coding
+rs114322470	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs114381567	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CDKAL1	protein_coding
+rs114447556	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs1146297	2	3	3	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	MAN1A2	protein_coding
+rs114635781	1	5	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KCNK16	protein_coding
+rs11466334	1	4	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	TGFB1	protein_coding
+rs1150674	1	5	3	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	ZNF192P1	processed_transcript
+rs11514133	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs11557287	2	8	2	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	NRF1	protein_coding
+rs11576244	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	THRAP3	protein_coding
+rs11598843	1	20	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PCDH15	protein_coding
+rs116039287	1	9	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	SSR1	protein_coding
+rs11620422	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs116257126	2	10	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	HMGA2	protein_coding
+rs116279971	1	7	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	HORMAD1	protein_coding
+rs116313472	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs11633473	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs116500286	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	KCNQ1-AS1	antisense
+rs11651052	2	5	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	HNF1B	protein_coding
+rs11653006	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs11653796	1	13	4	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	ACBD4	protein_coding
+rs11657101	1	9	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TLK2	protein_coding
+rs11659035	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PPM1E	protein_coding
+rs11664106	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	EMILIN2	protein_coding
+rs11670675	2	13	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	SARS2	protein_coding
+rs11674103	1	5	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SCN2A	protein_coding
+rs11680058	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AC010880.1	lincRNA
+rs116843064	1	12	3	1	1	0	0	1	0	0	0	1	0	0	0	0	1	0	1	1	missense_variant	ANGPTL4	protein_coding
+rs11688682	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs116913033	1	20	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	CAMK2B	protein_coding
+rs11691374	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs11692908	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PLEKHM3	protein_coding
+rs116929578	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs1169299	1	14	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	HNF1A	protein_coding
+rs116979298	2	5	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	HMGA2	protein_coding
+rs11698462	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	MYT1	protein_coding
+rs117064493	1	13	4	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	LUC7L	protein_coding
+rs11707129	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	POC1A	protein_coding
+rs11708067	1	6	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ADCY5	protein_coding
+rs11716527	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs117215804	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs11724862	1	27	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	SORBS2	protein_coding
+rs117267852	2	4	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	CDKAL1	protein_coding
+rs117271404	1	10	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ANK1	protein_coding
+rs11727676	1	2	2	1	0	1	0	1	0	0	0	0	0	0	0	0	0	1	1	0	synonymous_variant	HHIP	protein_coding
+rs117380042	2	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CCND2-AS2	antisense
+rs117414485	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	C10orf67	protein_coding
+rs117440460	1	6	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	NDUFAF6	protein_coding
+rs117515728	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	RP11-44F14.8	lincRNA
+rs11751816	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	JARID2	protein_coding
+rs117526461	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs11755801	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs11759026	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs117624659	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs117656456	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CDKAL1	protein_coding
+rs117657946	1	17	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MGAT1	protein_coding
+rs11766944	3	10	3	0	0	0	0	1	0	1	0	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	MAD1L1	protein_coding
+rs117809958	1	13	4	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	ATG16L1	protein_coding
+rs117870891	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs117882378	1	6	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LINC01122	lincRNA
+rs117987174	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs118046020	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs118074491	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs118115876	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PDE3B	protein_coding
+rs11819063	1	3	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	MYO3A	protein_coding
+rs11819995	1	6	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ETS1	protein_coding
+rs11853527	1	5	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	WDR72	protein_coding
+rs11902253	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs11911369	1	3	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	ETS2	protein_coding
+rs11926707	3	8	2	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	PTH1R	protein_coding
+rs11961408	1	23	2	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	HLA-B	protein_coding
+rs11967298	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CDKAL1	protein_coding
+rs11969311	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	HIVEP2	protein_coding
+rs11983595	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs11996576	1	2	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	NKX6-3	protein_coding
+rs11999061	1	5	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	URM1	protein_coding
+rs12001437	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs12025652	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs12033257	1	3	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	KCND3	protein_coding
+rs1203894	1	2	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	LINC00261	lincRNA
+rs12063943	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FAF1	protein_coding
+rs12066815	1	12	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	NTNG1	retained_intron
+rs12068632	1	9	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	CDC42BPA	protein_coding
+rs12117411	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-323I1.1	lincRNA
+rs12119086	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-293P20.2	antisense
+rs12128213	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs12138597	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SKI	protein_coding
+rs12140153	1	8	4	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	missense_variant	INADL	protein_coding
+rs12140915	1	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	DAB1	protein_coding
+rs1215468	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs12185610	2	5	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	SPRED2	protein_coding
+rs12200517	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs12206516	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs12269193	2	4	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	INPP5F	protein_coding
+rs12281701	1	7	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	ORAOV1	protein_coding
+rs1229984	1	5	4	1	1	0	0	0	0	0	0	0	1	0	0	0	1	0	1	1	missense_variant	ADH1B	protein_coding
+rs12328987	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs12380322	2	3	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	HAUS6	protein_coding
+rs12402498	2	4	2	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	PHF13	protein_coding
+rs12418866	3	3	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	OR9Q1	protein_coding
+rs12419690	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs12437434	1	2	2	1	1	0	0	0	0	1	0	0	0	0	0	0	1	0	1	1	missense_variant	NYNRIN	protein_coding
+rs12453750	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs12454712	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	BCL2	protein_coding
+rs12455492	2	5	2	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	BCL2	protein_coding
+rs12461269	1	4	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SBNO2	protein_coding
+rs12464787	4	22	2	1	1	1	0	1	0	1	0	0	0	0	0	0	1	1	1	1	missense_variant	TTN	protein_coding
+rs12467798	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs12468070	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs12490232	1	11	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LPP	protein_coding
+rs12500603	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SMARCA5	protein_coding
+rs1250551	1	2	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	ZMIZ1	protein_coding
+rs12534945	1	15	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PRKRIP1	processed_transcript
+rs12548678	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs12553324	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs12555274	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs12570156	1	9	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	A1CF	protein_coding
+rs12601921	1	5	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	BPTF	protein_coding
+rs1260326	1	5	2	1	1	0	0	0	0	0	1	0	0	0	1	0	1	1	1	1	missense_variant	GCKR	protein_coding
+rs12613239	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs12625671	1	4	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	HNF4A	protein_coding
+rs12655753	1	6	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	CEP120	protein_coding
+rs12663450	1	2	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	BTBD9	protein_coding
+rs12680217	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-150O12.1	lincRNA
+rs12680692	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	LONRF1	processed_transcript
+rs12702586	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	C1GALT1	protein_coding
+rs12708519	2	3	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	PTPN9	protein_coding
+rs12712928	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AC012354.6	lincRNA
+rs12713597	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	ETAA1	protein_coding
+rs12746673	2	4	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	PLEKHM2	protein_coding
+rs12757257	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs12758483	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs12789028	1	9	3	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	LTBP3	protein_coding
+rs12811407	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FBRSL1	protein_coding
+rs12855502	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs12883788	1	2	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	AKAP6	protein_coding
+rs12896030	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs12898690	2	3	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	BAHD1	protein_coding
+rs12909009	1	12	4	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	DPP8	protein_coding
+rs12913098	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	DPH6-AS1	lincRNA
+rs12943407	1	5	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	HNF1B	protein_coding
+rs1296328	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-775H9.2	lincRNA
+rs12964145	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs12970504	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	BCL2	protein_coding
+rs12999257	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs13022070	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SPHKAP	protein_coding
+rs13023418	1	3	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	DNMT3A	protein_coding
+rs13066678	1	18	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MBNL1	protein_coding
+rs13085136	1	5	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SHQ1	protein_coding
+rs13086821	1	8	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ZNF148	protein_coding
+rs13094957	1	4	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	UBE2E2	nonsense_mediated_decay
+rs13109789	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs131246	1	5	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PRR14L	protein_coding
+rs131285	2	4	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	ZMAT5	protein_coding
+rs13130845	1	5	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	WFS1	protein_coding
+rs13135646	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	NDST3	protein_coding
+rs13142804	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CDKL2	protein_coding
+rs13153834	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AC022431.2	protein_coding
+rs1316739	2	14	2	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	SOCS2	protein_coding
+rs13185500	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AC008394.1	protein_coding
+rs13186372	1	6	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	NNT	protein_coding
+rs13194747	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs13207433	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs1321313	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs1321850	1	6	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AGPAT4	protein_coding
+rs13222509	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs13239186	1	5	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CTTNBP2	protein_coding
+rs13250825	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-380I10.4	antisense
+rs13262285	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SGCZ	protein_coding
+rs13266372	1	8	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RALYL	protein_coding
+rs13266634	1	4	1	1	1	1	0	0	0	0	0	0	0	0	0	0	1	1	0	1	missense_variant	SLC30A8	protein_coding
+rs13267937	2	3	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	MAFA	protein_coding
+rs1327123	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs1327271	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs13273592	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs1327692	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs1330303	1	10	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	BNC2	protein_coding
+rs13303359	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs13339351	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs13387347	2	14	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	G6PC2	nonsense_mediated_decay
+rs13438418	1	3	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	BRAF	protein_coding
+rs1345203	3	13	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	MIR4435-1HG	lincRNA
+rs137986049	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs138043981	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs138348096	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs138742	2	17	4	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	TOM1	protein_coding
+rs138878099	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs139034871	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs139073773	2	92	6	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	HLA-C	protein_coding
+rs139149176	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs139219993	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-1129I3.1	sense_overlapping
+rs1393202	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs139330292	1	6	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ARL15	protein_coding
+rs1396713	1	6	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	HERC1	protein_coding
+rs139751114	1	5	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	S100PBP	processed_transcript
+rs139891432	1	4	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FTO	protein_coding
+rs140249932	2	4	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	CDKAL1	protein_coding
+rs140400323	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KCNQ1	protein_coding
+rs1404990	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs140658764	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs140727097	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs140778879	1	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	IDE	protein_coding
+rs140908036	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs1410467	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs1412265	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	DNAH8	protein_coding
+rs141307757	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	RP11-755E23.3	lincRNA
+rs1415287	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs141555626	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	RP11-340F14.5	sense_overlapping
+rs1415701	1	8	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	L3MBTL3	protein_coding
+rs1420076	2	11	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RBFOX1	protein_coding
+rs142395395	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs142409867	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs142520867	3	17	4	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	PILRB	protein_coding
+rs142609509	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs1426371	1	5	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	WSCD2	protein_coding
+rs142775453	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-173P15.7	antisense
+rs142986308	3	68	4	1	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	missense_variant	PSORS1C1	protein_coding
+rs143000786	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs143135397	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs143876660	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs144186803	1	2	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	CTBP1-AS2	antisense
+rs144589448	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs145003494	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs1451533	2	6	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	LINC01158	antisense
+rs145222716	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	IDE	protein_coding
+rs145500238	1	6	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	GLIS3	protein_coding
+rs145532103	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs145678014	1	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	QSER1	protein_coding
+rs145904814	1	4	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FTO	protein_coding
+rs146295182	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs146668074	1	2	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	IDE	protein_coding
+rs146692251	1	4	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	VPS13C	protein_coding
+rs1469705	1	3	1	1	1	1	0	0	0	1	0	0	0	0	0	0	1	1	1	1	missense_variant	ZNF536	protein_coding
+rs146998369	2	8	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	IGF2BP2	protein_coding
+rs147020059	4	5	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	SOX11	protein_coding
+rs1472495	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs147434309	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CDKAL1	protein_coding
+rs1475655	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs147581833	1	3	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ANKH	protein_coding
+rs147643814	2	5	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	SLC30A8	protein_coding
+rs147676117	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LIPH	protein_coding
+rs147834269	1	5	2	1	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	missense_variant	WFS1	protein_coding
+rs148340480	1	10	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	NFIX	protein_coding
+rs149092094	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs149106073	2	14	2	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	upstream_gene_variant	TCF7L2	protein_coding
+rs149142833	1	9	2	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	CBFA2T2	protein_coding
+rs149282777	3	17	4	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	HNF1A	protein_coding
+rs1492989	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs149336329	1	7	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MYO5C	protein_coding
+rs149587589	1	5	3	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	KIAA1875	protein_coding
+rs149781755	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CDKAL1	protein_coding
+rs149800825	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs149802978	1	14	4	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	PAM	protein_coding
+rs149911199	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs150015181	2	15	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	upstream_gene_variant	ANK1	protein_coding
+rs150057262	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	NCAN	protein_coding
+rs150100713	2	3	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	AC063979.1	unitary_pseudogene
+rs150429692	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FAM185BP	unprocessed_pseudogene
+rs150617279	2	12	4	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	ZNF682	protein_coding
+rs150715188	1	12	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	GRM8	protein_coding
+rs1514895	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs1520191	1	7	2	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	C12orf42	processed_transcript
+rs1523539	1	5	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	RP4-715N11.2	lincRNA
+rs1533104	1	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TSPAN8	protein_coding
+rs1534696	1	6	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SNX10	protein_coding
+rs1558902	1	4	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FTO	protein_coding
+rs1571151	1	6	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	LEPR	protein_coding
+rs1575972	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs1576655	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs1614264	2	15	4	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	VPS11	retained_intron
+rs1650007	1	4	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ARID2	protein_coding
+rs1679147	1	5	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MRAS	protein_coding
+rs1683935	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SGPL1	protein_coding
+rs16849467	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AC079610.1	sense_overlapping
+rs1685635	1	3	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	AQP10	protein_coding
+rs16859748	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	EHHADH-AS1	antisense
+rs16887160	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP1-209A6.1	lincRNA
+rs16895840	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-3G20.1	lincRNA
+rs16896276	1	6	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LCORL	protein_coding
+rs16907058	1	5	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	NELL1	protein_coding
+rs16907751	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs1694068	1	4	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ARL15	protein_coding
+rs16970349	2	9	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	BMF	protein_coding
+rs17036160	1	8	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	PPARG	protein_coding
+rs17049820	1	6	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LINC01122	lincRNA
+rs1705003	3	56	4	1	1	0	0	0	0	1	1	0	0	0	0	0	1	0	1	1	missense_variant	SYNGAP1	protein_coding
+rs17057112	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AC011343.1	lincRNA
+rs17069206	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs17078452	1	3	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RFX6	protein_coding
+rs17089546	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-175E9.1	antisense
+rs17089932	1	3	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	RP11-397A16.1	lincRNA
+rs17122782	2	19	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	SLC7A7	protein_coding
+rs17168486	1	9	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	DGKB	protein_coding
+rs17168605	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs17250160	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs17250977	1	4	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ANKH	protein_coding
+rs17261179	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs17265513	1	16	2	1	1	0	0	1	0	1	1	0	1	0	0	0	1	0	1	1	missense_variant	ZHX3	protein_coding
+rs1726669	2	4	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ERO1LB	protein_coding
+rs17333350	1	8	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	SLCO6A1	protein_coding
+rs1737897	2	3	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	ASXL1	protein_coding
+rs174541	3	11	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	FEN1	protein_coding
+rs17471624	2	16	4	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	RPL13	protein_coding
+rs17476364	1	15	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	HK1	protein_coding
+rs17489568	2	2	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	upstream_gene_variant	ZFP91	protein_coding
+rs1757856	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs17600959	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs17667073	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs17676097	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	GLP2R	protein_coding
+rs17685538	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs177045	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs17708276	2	8	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	MSRA	protein_coding
+rs17712208	1	4	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PROX1-AS1	antisense
+rs17749202	2	2	2	0	0	0	0	0	0	1	0	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	WNT11	protein_coding
+rs17770336	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LINGO2	protein_coding
+rs17772814	1	2	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	CASC11	lincRNA
+rs17818197	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	EBF2	protein_coding
+rs17857291	1	18	4	1	1	0	0	1	0	1	0	0	0	0	0	0	1	0	1	1	missense_variant	AGAP3	protein_coding
+rs1788819	2	8	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	C18orf8	protein_coding
+rs1800574	2	16	3	1	1	0	0	1	0	0	0	0	0	0	1	0	1	1	1	1	missense_variant	HNF1A	protein_coding
+rs1800900	3	16	4	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	GNAS	protein_coding
+rs1800961	1	7	2	1	1	0	0	0	0	0	0	0	1	0	0	0	1	0	1	1	missense_variant	HNF4A	protein_coding
+rs1802837	1	3	2	1	1	1	1	1	0	0	0	0	0	0	0	1	1	1	1	1	stop_gained	TM4SF4	protein_coding
+rs180726800	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs1810534	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CHMP4B	protein_coding
+rs181345902	2	14	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	TCF7L2	protein_coding
+rs181911080	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs183623967	1	5	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TOX2	protein_coding
+rs183862911	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs184163936	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs1852006	1	6	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	MAGI2	protein_coding
+rs187201965	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs188520200	3	7	2	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	R3HDML	protein_coding
+rs1888832	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs188918325	1	11	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MACF1	protein_coding
+rs190373810	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs190597808	4	4	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	RP11-343J3.5	processed_pseudogene
+rs1907225	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs192540172	1	7	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	IGF2BP2	protein_coding
+rs192885976	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs193023456	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs1942569	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs1955851	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs1977833	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs1978054	1	9	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	PCM1	protein_coding
+rs1978487	2	5	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KAT8	protein_coding
+rs1991371	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	BMPR2	protein_coding
+rs2007537	1	5	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CCDC77	protein_coding
+rs2008713	1	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	TAL1	protein_coding
+rs2025067	1	10	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SMEK1	protein_coding
+rs2042073	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2046438	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2049019	3	18	5	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	MEIS1	protein_coding
+rs2056857	1	6	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	C14orf166B	nonsense_mediated_decay
+rs2057069	1	12	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TFEB	protein_coding
+rs2059134	2	12	4	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	TNRC6A	protein_coding
+rs206015	1	18	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	NOTCH4	protein_coding
+rs2066827	1	4	2	1	1	0	0	1	0	0	0	0	0	0	0	0	1	0	1	1	missense_variant	CDKN1B	protein_coding
+rs2071465	2	65	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	PSMB8	protein_coding
+rs2073957	2	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	KCNQ1	protein_coding
+rs208311	1	17	4	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	P2RX7	nonsense_mediated_decay
+rs2099044	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MFAP3	processed_transcript
+rs2115107	4	13	3	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	LRRC8E	protein_coding
+rs2125838	1	4	2	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	NUP160	protein_coding
+rs2144907	3	4	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	R3HDML	protein_coding
+rs2165069	1	10	4	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	AP3S2	protein_coding
+rs2167306	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2168101	1	4	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LMO1	protein_coding
+rs2181063	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2203452	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2227199	2	8	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	DNM3	protein_coding
+rs2229840	1	9	1	1	1	0	0	0	0	1	1	0	0	0	0	0	1	0	1	1	missense_variant	NCOR2	protein_coding
+rs2233580	1	6	3	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	missense_variant	PAX4	protein_coding
+rs223423	1	32	4	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	UBE2D3	protein_coding
+rs2237442	1	12	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	GRB10	protein_coding
+rs2237884	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KCNQ1	protein_coding
+rs2237897	2	4	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	KCNQ1	protein_coding
+rs2242159	1	6	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PDE8B	protein_coding
+rs2244214	1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	SCTR	protein_coding
+rs2247326	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SLC14A2	protein_coding
+rs2257883	2	11	4	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	HMGA2	protein_coding
+rs2259049	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2267374	2	7	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MAFF	protein_coding
+rs2268532	1	17	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ST6GAL1	protein_coding
+rs2269247	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PGM1	protein_coding
+rs2270335	2	15	5	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	GAD1	protein_coding
+rs2272163	1	7	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	ROBO2	protein_coding
+rs2274162	1	3	1	0	0	0	0	1	0	0	0	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	DFNB31	protein_coding
+rs2274933	1	4	3	1	1	1	0	0	0	1	1	0	0	0	0	0	1	1	1	1	missense_variant	LAMA5	protein_coding
+rs2277339	2	14	4	1	1	0	0	0	0	1	0	1	0	0	0	0	1	0	1	1	missense_variant	PRIM1	protein_coding
+rs227941	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	AC006026.9	processed_pseudogene
+rs2279440	1	15	4	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	SETD5	protein_coding
+rs2283164	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KCNQ1	protein_coding
+rs2283167	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KCNQ1	protein_coding
+rs2283205	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KCNQ1	protein_coding
+rs2283368	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KL	protein_coding
+rs2288176	1	7	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TNS1	protein_coding
+rs2289043	1	2	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	missense_variant	UNC5C	protein_coding
+rs2292662	1	6	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ATXN7	protein_coding
+rs2295388	2	21	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MEG3	lincRNA
+rs2303202	1	10	3	0	0	0	0	1	0	1	1	0	0	0	1	0	0	1	1	0	splice_polypyrimidine_tract_variant	GSE1	protein_coding
+rs2305141	1	11	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	GIGYF2	protein_coding
+rs2306593	1	17	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	MYO19	protein_coding
+rs2313211	1	9	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	ABCC5	protein_coding
+rs231362	2	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	KCNQ1	protein_coding
+rs2316118	1	7	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TFDP1	protein_coding
+rs2334499	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2336987	1	3	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	CNBD1	protein_coding
+rs234860	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KCNQ1	protein_coding
+rs2371064	2	9	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	NRXN3	protein_coding
+rs2382031	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2393960	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2395023	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	RP11-242G20.1	protein_coding
+rs2421021	1	8	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PLEKHA1	protein_coding
+rs2426443	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP4-723E3.1	lincRNA
+rs243018	1	2	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	AC007381.2	lincRNA
+rs2438988	1	6	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FRMPD2	protein_coding
+rs244080	3	16	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	PKIG	protein_coding
+rs2444842	2	20	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	ITGB4	protein_coding
+rs2447198	3	15	5	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	CKMT1B	protein_coding
+rs2469102	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	RP11-321F6.1	protein_coding
+rs2479106	2	7	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	DENND1A	protein_coding
+rs2493389	2	3	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	AL512503.1	protein_coding
+rs2504093	1	6	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	DAAM2	protein_coding
+rs2504706	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2514530	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	GDF6	protein_coding
+rs252761	1	4	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	AP3B1	protein_coding
+rs2534653	3	25	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	MCCD1	protein_coding
+rs2540949	1	5	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CEP68	protein_coding
+rs256904	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AC022431.2	protein_coding
+rs2581787	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RFT1	protein_coding
+rs2615231	1	11	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF12	protein_coding
+rs261966	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CTD-2337A12.1	antisense
+rs2621396	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs262350	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RELN	protein_coding
+rs2624847	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-493K19.3	antisense
+rs2658746	1	5	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ZNF236	protein_coding
+rs2664419	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TET1	protein_coding
+rs2679745	2	12	3	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	AZIN1	protein_coding
+rs2683506	1	4	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	SPRYD3	protein_coding
+rs271035	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2714343	1	3	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	RREB1	protein_coding
+rs2722885	2	7	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ESRP1	protein_coding
+rs2730827	2	4	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PDZRN4	protein_coding
+rs2732469	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2741362	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TSHZ2	protein_coding
+rs2749014	2	2	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	RP1-152L7.1	unprocessed_pseudogene
+rs2749924	1	9	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MED23	protein_coding
+rs2759398	1	14	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	QKI	protein_coding
+rs2786257	1	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	ARL14EP	protein_coding
+rs2796441	2	2	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	TLE1	protein_coding
+rs2800733	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2806924	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2812539	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2814834	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2815657	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CAMK1D	protein_coding
+rs2815749	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2816177	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2817111	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs28360503	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	BACE2	protein_coding
+rs28411900	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FOXK1	protein_coding
+rs2841648	2	15	4	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	CRIP3	protein_coding
+rs28475375	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2850960	1	8	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PPP3CA	protein_coding
+rs28509770	1	5	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PPP2R3A	protein_coding
+rs28521526	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	IFNA21	protein_coding
+rs28533815	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	GPSM1	protein_coding
+rs28538218	2	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-382A20.5	antisense
+rs28592184	1	5	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	DPEP1	protein_coding
+rs28599796	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MYEOV	processed_transcript
+rs28626548	2	4	4	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	upstream_gene_variant	KLF16	protein_coding
+rs28627996	1	4	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LRP12	protein_coding
+rs2862954	1	3	1	1	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	missense_variant	ERLIN1	protein_coding
+rs28691713	1	2	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	PIM3	protein_coding
+rs2873789	1	3	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	GMEB1	protein_coding
+rs2879813	3	7	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	TP53INP1	protein_coding
+rs28836514	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	AC093334.1	pseudogene
+rs2890156	2	12	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	PRC1	protein_coding
+rs2894536	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs290476	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs290490	1	17	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs2908296	1	5	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	GCK	protein_coding
+rs2917677	1	7	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	NQO1	protein_coding
+rs2920928	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2925979	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CMIP	protein_coding
+rs2943800	1	2	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	PPP1R32	protein_coding
+rs295030	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CTC-254B4.1	lincRNA
+rs2956088	1	4	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	APIP	protein_coding
+rs2958610	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	RN7SKP182	misc_RNA
+rs2963470	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs2997064	1	3	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	CAMK1D	protein_coding
+rs2999170	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs3012060	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs302177	1	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	HDAC9	protein_coding
+rs3088050	4	21	4	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	PRELID1	protein_coding
+rs308958	1	4	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	SYN2	processed_transcript
+rs3094503	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-697E22.2	antisense
+rs3094515	2	5	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	HNF1B	protein_coding
+rs3095633	1	9	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	AKTIP	protein_coding
+rs3110641	2	5	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	HNF1B	protein_coding
+rs3111316	2	11	4	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	FARSA	protein_coding
+rs3123307	2	8	2	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	ANGEL2	protein_coding
+rs3123794	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	INA	protein_coding
+rs314879	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs316371	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs319597	2	7	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	PCBD2	protein_coding
+rs3201	1	4	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	FRS2	protein_coding
+rs320369	1	3	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	AL157902.3	antisense
+rs321234	1	8	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-147C23.1	processed_transcript
+rs3217860	1	4	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	CCND2	protein_coding
+rs3217893	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CCND2	protein_coding
+rs3217907	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CCND2	protein_coding
+rs329122	1	7	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	JADE2	protein_coding
+rs333947	1	6	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	CSF1	protein_coding
+rs33959228	1	11	3	1	1	0	0	0	0	1	1	0	1	0	0	0	1	0	1	1	missense_variant	ZNF76	nonsense_mediated_decay
+rs34010237	1	19	4	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	FCGRT	protein_coding
+rs34072429	2	10	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	STK11	protein_coding
+rs34080199	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs34084105	2	3	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LDHB	processed_transcript
+rs34086018	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs340874	2	8	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	PROX1	protein_coding
+rs34245505	1	11	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	BMF	protein_coding
+rs34298980	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LRFN2	protein_coding
+rs34311866	2	17	4	1	1	0	0	0	0	0	1	0	1	0	0	0	1	0	1	1	missense_variant	TMEM175	protein_coding
+rs34341	1	4	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ANKDD1B	retained_intron
+rs34379399	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-80H5.9	lincRNA
+rs34505186	1	3	1	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	FBXO46	protein_coding
+rs34569984	1	4	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CACNA1H	protein_coding
+rs34584161	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RNF6	processed_transcript
+rs34665498	3	14	3	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	PDIA2	protein_coding
+rs34673046	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-242G20.1	protein_coding
+rs34680764	1	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FAM101A	protein_coding
+rs34691	1	6	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MAST4	protein_coding
+rs34709632	1	7	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PARK2	protein_coding
+rs34811474	1	5	2	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	missense_variant	ANAPC4	protein_coding
+rs34821625	2	2	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	LEP	protein_coding
+rs348330	2	2	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ABCB10	protein_coding
+rs34885433	2	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SLCO4A1	protein_coding
+rs34965774	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs35005436	3	12	4	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	GTF2I	protein_coding
+rs35042446	1	1	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	missense_variant	RLF	protein_coding
+rs35142762	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs35167448	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs35169799	1	4	2	1	1	0	1	0	0	0	0	0	0	0	0	1	1	0	1	1	stop_gained	PLCB3	protein_coding
+rs35274205	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs35368444	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs35404821	1	2	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	RP11-132N15.3	lincRNA
+rs35419009	1	4	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CDH7	protein_coding
+rs35550545	2	12	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	PRUNE	protein_coding
+rs35575195	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs35632228	2	6	2	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	LMX1B	protein_coding
+rs35658682	2	4	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	NREP	protein_coding
+rs35722605	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ARSG	protein_coding
+rs35723063	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KCNQ1-AS1	antisense
+rs35825770	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs35889184	2	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	KCNQ1	protein_coding
+rs35889227	2	4	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	FOXN3	protein_coding
+rs35895680	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs36027158	2	11	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	VPS53	protein_coding
+rs36052996	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AC133680.1	lincRNA
+rs36090640	1	4	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	STARD13	protein_coding
+rs362307	2	5	3	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	HTT	protein_coding
+rs3731600	2	4	3	1	1	0	0	0	0	1	0	0	0	0	0	0	1	0	1	1	missense_variant	SCTR	protein_coding
+rs3734618	2	8	2	1	0	1	1	1	0	1	0	0	0	0	0	1	0	1	1	1	stop_gained	KCNK16	protein_coding
+rs3736505	2	6	4	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	HSD17B12	protein_coding
+rs3742636	1	2	2	1	1	0	0	0	0	0	0	0	1	0	0	0	1	0	1	1	missense_variant	SIX4	protein_coding
+rs3744347	2	7	1	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	CBX1	protein_coding
+rs3747579	1	19	3	1	1	0	0	1	0	0	0	1	1	0	0	0	1	0	1	1	missense_variant	CORO7	protein_coding
+rs3750971	1	4	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TPCN2	protein_coding
+rs3751837	1	10	3	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	CLUAP1	protein_coding
+rs3757974	1	16	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	DGAT1	retained_intron
+rs3762991	3	5	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	PELO	protein_coding
+rs3768321	3	16	6	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	SNORA55	snoRNA
+rs3775087	1	7	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	GUCY1B3	protein_coding
+rs3778156	1	20	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	OPRM1	protein_coding
+rs3779767	2	7	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	ZFPM2	protein_coding
+rs3783007	1	6	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	STK24	protein_coding
+rs3783300	1	3	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	PRKD1	protein_coding
+rs3787186	1	6	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	NFATC2	protein_coding
+rs3791848	1	5	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	GALNT3	protein_coding
+rs3798519	1	4	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	TFAP2B	protein_coding
+rs3800120	1	4	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	GMDS	retained_intron
+rs3804043	3	32	5	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	TANGO2	protein_coding
+rs3806155	1	57	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	BTNL2	protein_coding
+rs3809113	2	5	2	0	0	0	0	1	0	1	1	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	INHBE	protein_coding
+rs3814738	2	10	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	TMEM151A	protein_coding
+rs38205	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs3824004	1	6	3	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	1	1	missense_variant	PAX4	protein_coding
+rs3842726	2	16	3	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	upstream_gene_variant	INS	protein_coding
+rs3844124	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs3850067	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs3853248	2	8	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ESR1	protein_coding
+rs3887925	1	10	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ST6GAL1	protein_coding
+rs3906052	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs3910384	3	8	5	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	WEE1	protein_coding
+rs3911664	1	2	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	CTC-236F12.4	protein_coding
+rs3918292	1	5	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	CCND1	protein_coding
+rs3918298	2	7	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	CCND1	protein_coding
+rs39257	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	STEAP2-AS1	antisense
+rs3926926	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	UPK3B	protein_coding
+rs3935795	1	6	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ETS1	protein_coding
+rs3959569	4	19	5	1	1	0	0	1	0	1	1	0	1	0	0	0	1	0	1	1	missense_variant	MAPKBP1	protein_coding
+rs3966782	2	5	3	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	upstream_gene_variant	CHRNE	protein_coding
+rs39671	1	6	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ARL15	protein_coding
+rs4082793	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	BCL11B	protein_coding
+rs41277236	2	2	2	1	1	0	0	0	0	1	0	0	0	0	0	0	1	0	1	1	missense_variant	NEUROG3	protein_coding
+rs4129858	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LAMC1	protein_coding
+rs4132228	1	4	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ADAMTS9-AS2	antisense
+rs4140660	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs4148856	1	10	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ABCB9	protein_coding
+rs41521945	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs4237150	1	8	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	GLIS3	protein_coding
+rs4238013	2	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CCND2-AS2	antisense
+rs424482	1	10	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	NR2F1-AS1	processed_transcript
+rs4293449	1	12	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	NOL4	protein_coding
+rs429358	2	7	2	1	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	missense_variant	APOE	protein_coding
+rs4311	1	20	4	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	ACE	protein_coding
+rs4382592	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MED27	protein_coding
+rs4432163	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs4450871	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs4454259	2	6	2	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	KAT6A	protein_coding
+rs4482463	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	AC016903.2	lincRNA
+rs4482616	1	6	2	0	0	0	0	1	0	0	1	0	0	0	1	0	0	1	1	0	splice_donor_region_variant	ADCY5	protein_coding
+rs4499362	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs45477500	2	4	3	0	0	0	0	1	0	0	0	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	KCNQ1	protein_coding
+rs4548860	1	4	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FTO	protein_coding
+rs45551238	2	6	2	0	0	0	0	0	0	1	1	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	ATP5E	protein_coding
+rs4556142	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs4568288	1	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	THEGL	processed_transcript
+rs458522	1	6	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ZNF263	protein_coding
+rs4586740	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TNRC6B	protein_coding
+rs459571	1	5	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	BRD3	protein_coding
+rs4599845	1	5	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TRPS1	protein_coding
+rs4624679	1	12	4	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	NUP54	protein_coding
+rs4626927	2	3	2	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	upstream_gene_variant	RP11-630I5.1	processed_pseudogene
+rs4635384	1	4	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	HNF1B	protein_coding
+rs4664605	2	13	4	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ARL6IP6	protein_coding
+rs4665372	2	14	4	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	CGREF1	protein_coding
+rs4668481	2	2	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	AC142119.1	lincRNA
+rs4691378	1	8	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PDGFC	nonsense_mediated_decay
+rs4709746	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP1-230L10.1	lincRNA
+rs4711658	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TREML2	protein_coding
+rs4713761	2	14	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	HMGA1	protein_coding
+rs4719433	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs4720212	1	5	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AOAH	protein_coding
+rs4721059	1	6	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	TMEM106B	protein_coding
+rs4727462	1	10	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	ZAN	polymorphic_pseudogene
+rs4731702	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs4740559	1	8	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	NFIB	protein_coding
+rs4776970	1	6	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MAP2K5	protein_coding
+rs4777857	1	5	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-266O8.1	lincRNA
+rs4782568	2	4	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	OSGIN1	protein_coding
+rs4783837	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs4789	1	3	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	TRANK1	protein_coding
+rs4789816	1	5	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	WDR45B	protein_coding
+rs4792837	1	3	1	0	0	0	0	1	1	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KANSL1	protein_coding
+rs4804181	1	4	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ZNF799	protein_coding
+rs4804420	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	INSR	protein_coding
+rs4807125	1	6	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF3	protein_coding
+rs4808845	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CRTC1	protein_coding
+rs4812042	2	45	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	GNAS	protein_coding
+rs4813319	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SIRPA	protein_coding
+rs4833686	1	6	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PRDM5	protein_coding
+rs4842471	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RPS4XP15	processed_pseudogene
+rs486129	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	RP11-115J23.1	lincRNA
+rs487060	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SLC22A3	protein_coding
+rs4871304	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ZHX2	protein_coding
+rs4872527	1	9	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	BIN3	protein_coding
+rs4876702	1	4	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SLC30A8	protein_coding
+rs4894537	1	4	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FNDC3B	protein_coding
+rs4894803	1	7	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FNDC3B	protein_coding
+rs4901812	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs4911405	2	2	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	EIF2S2	protein_coding
+rs4923542	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-22P4.1	lincRNA
+rs4924455	1	7	3	1	0	1	0	0	0	1	0	0	0	0	0	0	0	1	1	0	synonymous_variant	C15orf52	retained_intron
+rs4929965	2	7	3	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	upstream_gene_variant	TH	nonsense_mediated_decay
+rs4930013	2	4	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KCNQ1	protein_coding
+rs4930141	2	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	KCNQ1	protein_coding
+rs4931467	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs4932747	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	ZNF257	protein_coding
+rs4950978	1	4	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	CNTN2	protein_coding
+rs4951159	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	CNTN2	protein_coding
+rs4952673	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	THADA	protein_coding
+rs4970658	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs4971038	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs4971072	2	21	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	FDPS	protein_coding
+rs4975198	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs4976033	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs4978775	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	EPB41L4B	protein_coding
+rs4984797	1	1	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	TPSP2	unprocessed_pseudogene
+rs4988483	2	5	2	1	1	0	0	0	0	1	0	0	0	0	0	0	1	0	1	1	missense_variant	SSTR5	protein_coding
+rs5023163	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs505922	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ABO	protein_coding
+rs507381	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs508419	3	21	5	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	ANK1	protein_coding
+rs512306	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	RP11-380N8.6	processed_pseudogene
+rs512780	2	3	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	RNF169	protein_coding
+rs5215	2	6	3	1	1	0	0	0	0	1	1	0	0	0	0	0	1	0	1	1	missense_variant	KCNJ11	protein_coding
+rs522308	3	7	3	0	0	0	0	0	1	1	1	0	0	0	0	0	0	0	1	0	intergenic_variant	HLA-DRB1	protein_coding
+rs529200	1	4	2	0	0	0	0	0	0	1	0	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	NLGN1	protein_coding
+rs529623	2	10	4	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	FXYD2	protein_coding
+rs539515	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	SEC16B	processed_transcript
+rs550072	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs55681398	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	RP11-632K21.3	processed_pseudogene
+rs55826925	2	6	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	B9D2	protein_coding
+rs55857387	1	16	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ITFG3	protein_coding
+rs55914434	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	HSPA4	protein_coding
+rs55970476	1	4	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SMAD6	protein_coding
+rs56062745	2	10	4	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	ADA	protein_coding
+rs56104880	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	GLIS2	protein_coding
+rs56121601	1	13	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	PCGF3	protein_coding
+rs56149983	2	6	3	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	upstream_gene_variant	PANX2	protein_coding
+rs56218782	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MAML3	protein_coding
+rs56249413	1	4	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KDM4B	protein_coding
+rs56283750	3	15	4	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	ZNF276	protein_coding
+rs56745821	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-524F11.2	antisense
+rs56799554	1	5	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	LINC00910	lincRNA
+rs569296	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TENM4	protein_coding
+rs57143316	1	2	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	SAYSD1	protein_coding
+rs572016	2	5	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	SPPL3	protein_coding
+rs57235767	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs57274815	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KCNQ1	protein_coding
+rs57358169	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs5751316	2	10	2	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	CYB5R3	protein_coding
+rs57537848	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PVRL2	protein_coding
+rs5762925	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ZNRF3	protein_coding
+rs576674	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs58015370	2	2	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	KLB	protein_coding
+rs580585	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs58090211	1	5	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SLC1A2	protein_coding
+rs58306981	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SETBP1	protein_coding
+rs58691354	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs58757862	1	9	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RBMS1	protein_coding
+rs59050225	1	8	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	JMJD1C	protein_coding
+rs59278436	2	3	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	METTL16	processed_transcript
+rs59427698	1	5	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LMX1B	protein_coding
+rs59689207	1	14	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CHD1L	protein_coding
+rs59738871	1	4	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	UBE2E2	nonsense_mediated_decay
+rs59904581	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs59972619	2	3	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-701P16.5	lincRNA
+rs5997539	1	11	4	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	ASCC2	protein_coding
+rs60128210	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs6021487	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP5-1112F19.2	lincRNA
+rs6063046	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	EYA2	protein_coding
+rs6070620	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs6073369	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	OSER1	protein_coding
+rs6073434	2	8	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	HNF4A	protein_coding
+rs6091115	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs61373376	1	7	4	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	GIPR	protein_coding
+rs61385262	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MEG3	lincRNA
+rs61607357	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs61736066	2	5	3	1	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	missense_variant	SLC39A11	protein_coding
+rs61748094	1	7	3	1	0	1	0	0	0	0	0	0	0	0	0	0	0	1	1	0	synonymous_variant	SPRED2	protein_coding
+rs61776586	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PDIK1L	protein_coding
+rs61818951	1	7	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PROX1-AS1	antisense
+rs61869847	2	4	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	KCNQ1	protein_coding
+rs61872774	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs61876142	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs61894507	2	15	4	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	C11orf30	protein_coding
+rs61901515	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	SNRPGP16	processed_pseudogene
+rs61917473	1	8	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	PPFIBP1	protein_coding
+rs61939481	1	5	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	USP44	protein_coding
+rs61992671	9	10	2	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	mature_miRNA_variant	MIR412	miRNA
+rs61993073	1	10	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	NRXN3	protein_coding
+rs62008456	1	7	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PEAK1	protein_coding
+rs62015803	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs62024481	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	IGF1R	protein_coding
+rs62033416	1	4	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FTO	protein_coding
+rs62048489	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs62076641	2	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	RP11-353N14.4	lincRNA
+rs62080313	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs62107261	1	2	1	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	AC105393.2	lincRNA
+rs62118504	2	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	EXOC3L2	protein_coding
+rs62128838	2	6	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	C19orf26	protein_coding
+rs62137415	1	12	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	THADA	protein_coding
+rs62216977	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	DTD1	protein_coding
+rs62257270	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs62259319	1	11	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	RPP14	protein_coding
+rs62271373	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs62300927	1	6	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SHROOM3	protein_coding
+rs62310934	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs62366901	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	RP11-269M20.1	processed_pseudogene
+rs62370474	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs62427977	1	4	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	BEND3	protein_coding
+rs62454583	1	19	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ETV1	protein_coding
+rs62460065	3	16	5	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	AEBP1	protein_coding
+rs62483173	3	14	4	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	ARF5	protein_coding
+rs62484946	2	13	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	LRRC17	protein_coding
+rs62492368	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AOC1	protein_coding
+rs62496161	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-115J16.2	lincRNA
+rs625039	2	7	2	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	LBX1	protein_coding
+rs634366	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	DYNC2H1	protein_coding
+rs6443954	3	34	4	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	AP2M1	protein_coding
+rs6456865	1	6	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	ZNF90P2	processed_pseudogene
+rs6458354	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs6460047	1	16	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	MLXIPL	nonsense_mediated_decay
+rs6470361	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-136O12.2	lincRNA
+rs6475477	1	5	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	FOCAD	protein_coding
+rs6476613	2	8	1	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	RP11-220I1.1	lincRNA
+rs6485981	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs6488140	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs6538804	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RMST	lincRNA
+rs6540733	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs6545816	1	9	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	BCL11A	protein_coding
+rs6567160	2	2	2	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	upstream_gene_variant	RNU4-17P	snRNA
+rs6568685	2	10	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	RP3-415N12.1	processed_pseudogene
+rs6570526	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs6577334	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs6589571	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	AP006216.5	antisense
+rs6604014	2	6	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	EVI5	protein_coding
+rs668459	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs6689629	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MDM4	protein_coding
+rs6692233	2	11	4	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	upstream_gene_variant	TTLL7	protein_coding
+rs6697896	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MTOR	protein_coding
+rs6705150	1	19	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ZEB2	protein_coding
+rs6706384	1	4	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	DGKD	protein_coding
+rs671	1	4	2	1	1	0	0	0	0	0	0	0	1	0	0	0	1	0	1	1	missense_variant	ALDH2	protein_coding
+rs6720948	2	4	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	LY75	protein_coding
+rs67269808	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs673335	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	RN7SL786P	misc_RNA
+rs6741951	1	6	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LINC01122	lincRNA
+rs67559658	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	EYA2	protein_coding
+rs6757477	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs6762578	1	5	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	COPG1	protein_coding
+rs676387	2	6	4	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	HSD17B1	protein_coding
+rs6766511	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs6777684	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs6779848	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs6808550	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AC133680.1	lincRNA
+rs6809096	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs6813195	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs6831006	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs6884702	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs6885132	1	3	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	ANKH	protein_coding
+rs6888037	1	9	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CTC-228N24.3	lincRNA
+rs6905058	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	RP11-230C9.1	processed_pseudogene
+rs6905226	1	6	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	NHSL1	protein_coding
+rs6905288	1	5	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	VEGFA	protein_coding
+rs6917676	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	RPL35AP3	processed_pseudogene
+rs6926312	2	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP1-167F1.2	antisense
+rs6956046	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	UBE3C	protein_coding
+rs6968655	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	KIAA0087	protein_coding
+rs6969685	1	3	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	AP1S1	protein_coding
+rs697239	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ZMIZ1	protein_coding
+rs6972751	1	3	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	ZNF746	protein_coding
+rs700059	2	6	4	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	RABGAP1	protein_coding
+rs7012759	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs7015203	1	4	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	ZNF251	protein_coding
+rs7022365	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs7030607	1	7	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ASTN2	protein_coding
+rs7067540	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs7069881	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs7070182	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs7080579	2	9	4	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	SEC24C	protein_coding
+rs708723	1	9	4	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	RAB7L1	protein_coding
+rs709156	1	10	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	PPARG	protein_coding
+rs7099048	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	C10orf11	protein_coding
+rs7104712	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs7110529	1	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TRIM66	protein_coding
+rs7115013	2	10	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ALKBH3	protein_coding
+rs7115190	1	8	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	WT1	protein_coding
+rs7122422	1	4	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	SBF2	protein_coding
+rs7132908	2	6	3	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	FAIM2	protein_coding
+rs7145337	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs71474196	1	18	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	C11orf49	protein_coding
+rs7147757	4	15	4	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	HMGB1P14	processed_pseudogene
+rs7150718	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SAMD15	protein_coding
+rs7156625	1	10	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	NRXN3	protein_coding
+rs7161744	1	9	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FAM227B	protein_coding
+rs7163757	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs7167984	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	AC112693.1	miRNA
+rs7172637	1	14	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	ZFAND6	protein_coding
+rs7183908	1	21	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	PML	protein_coding
+rs718579	1	5	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KCNQ1	protein_coding
+rs7189295	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CMIP	protein_coding
+rs720068	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP4-724E13.2	antisense
+rs720159	1	2	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	UPP2	protein_coding
+rs720928	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TRPS1	protein_coding
+rs7213608	1	2	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	KCNJ12	protein_coding
+rs7221314	1	6	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CYTH1	protein_coding
+rs7224685	2	3	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ZZEF1	protein_coding
+rs7232699	1	4	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LINC00907	lincRNA
+rs7242026	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs7247433	1	7	4	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	ZNF101	nonsense_mediated_decay
+rs7256564	1	9	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	PEPD	protein_coding
+rs72619339	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs72627182	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs72675820	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-422J15.1	lincRNA
+rs72681869	1	3	2	1	1	0	0	1	0	0	0	0	0	0	0	0	1	0	1	1	missense_variant	SOS2	protein_coding
+rs72695645	1	9	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ACSL1	protein_coding
+rs72709688	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	TRBV25OR9-2	unprocessed_pseudogene
+rs72732603	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CTD-2116N24.1	lincRNA
+rs727428	1	20	3	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	SHBG	protein_coding
+rs72755403	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs727734	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	JARID2	protein_coding
+rs72798545	3	11	4	0	0	0	0	0	0	1	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	MON1B	protein_coding
+rs72802150	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	PTF1A	protein_coding
+rs72802365	1	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	CTRB2	protein_coding
+rs72806282	2	4	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AC007131.2	lincRNA
+rs72806909	2	5	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MAPRE3	protein_coding
+rs72826093	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs72827349	1	4	4	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ZZEF1	protein_coding
+rs72832303	2	4	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	CDKAL1	protein_coding
+rs72836348	1	15	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	BCL2L11	protein_coding
+rs72845888	1	7	2	0	0	0	0	1	0	0	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	DCAF7	protein_coding
+rs72846863	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP1-90K10.4	lincRNA
+rs72854449	1	20	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TEX41	lincRNA
+rs72863966	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs72874860	1	4	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	GRB14	protein_coding
+rs72888748	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs7291042	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SGSM1	protein_coding
+rs72917544	1	4	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	CIR1	protein_coding
+rs72924707	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs72926932	1	38	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF4	protein_coding
+rs72951506	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	NUS1	protein_coding
+rs72976321	2	16	5	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	ATG16L1	protein_coding
+rs7302504	2	6	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	EP400	protein_coding
+rs7303887	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-377D9.3	lincRNA
+rs7304270	3	4	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	CCND2	protein_coding
+rs7307263	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-438N16.1	lincRNA
+rs730831	2	13	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	CTBP1	protein_coding
+rs73143584	2	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ZBTB46	protein_coding
+rs73175581	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs73186041	1	7	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SRPK2	protein_coding
+rs73221948	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs73229142	1	5	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SPPL3	protein_coding
+rs73281645	2	12	5	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	IGF2BP3	protein_coding
+rs73317613	2	10	4	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	SLC30A8	protein_coding
+rs73347525	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MEG3	lincRNA
+rs735048	2	7	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	COBL	protein_coding
+rs73541251	1	11	3	1	0	1	0	0	0	0	1	0	1	0	0	0	0	1	1	0	synonymous_variant	GP2	protein_coding
+rs73582456	2	11	4	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	FCGRT	protein_coding
+rs73612051	1	4	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FTO	protein_coding
+rs73712230	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs738408	1	5	3	1	0	1	0	0	0	1	0	0	1	0	0	0	0	1	1	0	synonymous_variant	PNPLA3	protein_coding
+rs73856630	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs73885749	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LIPH	protein_coding
+rs7397918	2	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	RP11-118B13.1	processed_pseudogene
+rs7403010	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KLF13	processed_transcript
+rs740746	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs74128490	1	6	4	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SEC16B	protein_coding
+rs74139610	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs74371219	2	4	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CDKAL1	protein_coding
+rs74387263	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CDKAL1	protein_coding
+rs7442885	4	7	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	SNORA70	snoRNA
+rs7445125	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	DMGDH	processed_transcript
+rs74459242	1	12	4	1	1	0	0	1	0	0	1	0	0	0	0	0	1	0	1	1	missense_variant	COBLL1	protein_coding
+rs7458670	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs74627567	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	RP11-216P16.4	processed_pseudogene
+rs74847755	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	JAZF1	protein_coding
+rs7488780	1	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PDE3A	protein_coding
+rs74942620	1	2	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	RP11-17A4.1	transcribed_processed_pseudogene
+rs7498798	3	4	3	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	upstream_gene_variant	ZFHX3	protein_coding
+rs750163	1	4	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	DMXL2	protein_coding
+rs7507813	1	4	2	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	ZNF429	protein_coding
+rs75080135	3	5	2	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	BAK1	protein_coding
+rs7510675	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	EP300	protein_coding
+rs75149408	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs75179644	2	2	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	AC079610.1	sense_overlapping
+rs75206890	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ZBTB38	protein_coding
+rs75291436	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs75417759	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs75445792	1	2	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	NKX6-3	protein_coding
+rs7559658	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs75620555	2	5	2	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	upstream_gene_variant	S1PR4	protein_coding
+rs75640507	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs7579323	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs758374	1	11	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ARVCF	protein_coding
+rs75888368	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs7594480	1	4	1	1	1	0	0	0	0	0	0	0	0	0	0	0	1	0	0	1	missense_variant	ACVR1C	protein_coding
+rs7599151	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs7603413	2	9	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	GPR113	protein_coding
+rs76074250	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs7608259	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs7609422	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	AC092484.1	lincRNA
+rs76263492	1	7	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CACNA2D3	protein_coding
+rs7629245	1	10	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	MAP3K13	protein_coding
+rs7631973	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	EGFEM1P	unitary_pseudogene
+rs7635128	2	3	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	CASR	protein_coding
+rs76369672	1	7	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	CALCR	protein_coding
+rs76378634	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	PROX1	protein_coding
+rs76435632	1	3	2	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	UBE2E2	nonsense_mediated_decay
+rs76480788	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TNS1	protein_coding
+rs76485553	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs7648830	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs7649058	1	8	2	0	0	0	0	1	0	0	1	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	CPNE4	protein_coding
+rs7650482	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CAND2	protein_coding
+rs76549217	1	3	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	ANKH	protein_coding
+rs76653898	2	8	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	CDKN1C	protein_coding
+rs76675804	1	11	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	THADA	protein_coding
+rs7676797	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-363G15.2	lincRNA
+rs76789970	2	5	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	SBF2	protein_coding
+rs76804656	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ARID5B	protein_coding
+rs7683525	1	9	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ACSL1	protein_coding
+rs76868685	2	4	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	KCNQ1	protein_coding
+rs76895963	3	6	4	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	CCND2	protein_coding
+rs7697644	1	9	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FAM13A	protein_coding
+rs76999373	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	RASA4DP	unprocessed_pseudogene
+rs7703782	1	6	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LINC00461	lincRNA
+rs77045000	4	6	4	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	upstream_gene_variant	ACADS	protein_coding
+rs77100210	1	7	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	YBX3	protein_coding
+rs77211442	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AC073325.1	lincRNA
+rs77273391	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PDE10A	processed_transcript
+rs7732130	2	13	2	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	AC008581.1	miRNA
+rs77348094	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs77355428	1	1	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	KCNQ1DN	antisense
+rs77464186	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ARAP1	protein_coding
+rs7751419	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs775230	2	11	4	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	BOC	protein_coding
+rs7755852	3	9	2	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	XXbac-BPG248L24.10	unprocessed_pseudogene
+rs77570671	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs7766070	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CDKAL1	protein_coding
+rs77704424	1	9	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	RBMS1	protein_coding
+rs77728904	1	15	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CDKN2B-AS1	antisense
+rs77746881	1	5	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PITPNC1	protein_coding
+rs77792157	1	18	2	1	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	missense_variant	CPA1	retained_intron
+rs77813615	1	8	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	GPSM1	protein_coding
+rs7781557	1	9	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	FBXL13	protein_coding
+rs7790934	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AUTS2	protein_coding
+rs7792074	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs77969702	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ZMIZ1	protein_coding
+rs78058190	1	8	3	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	PRKAG3	nonsense_mediated_decay
+rs7808028	2	4	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	PRKAR2B	protein_coding
+rs78086284	2	5	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	SLC30A8	protein_coding
+rs7813042	1	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	JPH1	protein_coding
+rs7821463	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TRHR	protein_coding
+rs7824269	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-89M16.1	lincRNA
+rs78252470	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	PLXND1	protein_coding
+rs78277257	2	14	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs7828631	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs78408340	1	14	4	1	1	0	0	0	0	1	0	1	1	0	1	0	1	1	1	1	missense_variant	PAM	protein_coding
+rs7844647	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs7845090	1	1	1	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	KCNB2	protein_coding
+rs7851052	1	9	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	DENND1A	protein_coding
+rs78596384	3	10	4	1	1	0	0	1	0	1	1	0	0	0	0	0	1	0	1	1	missense_variant	MNX1	protein_coding
+rs7861609	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs78623944	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs78628688	1	14	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	KDM2B	nonsense_mediated_decay
+rs7870869	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs7872172	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs78769612	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs78923858	1	9	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	NADK2	protein_coding
+rs7896332	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs7903146	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs79033136	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	LINC00543	lincRNA
+rs7914985	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-282I1.1	lincRNA
+rs79190780	2	3	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ANKH	protein_coding
+rs7933888	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs79369780	1	13	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TCF7L2	protein_coding
+rs7949336	1	16	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ARNTL	protein_coding
+rs7969177	1	8	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	CHD4	protein_coding
+rs79696944	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs79786949	1	12	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LPP	protein_coding
+rs797971	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs79920718	1	2	1	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	SCD5	protein_coding
+rs8005994	1	5	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-562L8.1	lincRNA
+rs80073370	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs80136509	1	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	INHBB	protein_coding
+rs8020605	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs8026894	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	GRAMD2	protein_coding
+rs80296758	2	3	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	BCL9	protein_coding
+rs8043085	2	12	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	RASGRP1	protein_coding
+rs8043371	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	C15orf27	protein_coding
+rs8068913	2	20	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	RPS6KB1	protein_coding
+rs8082265	1	10	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ATP2A3	protein_coding
+rs8089704	1	4	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	DCC	nonsense_mediated_decay
+rs8096658	1	12	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	NFATC1	protein_coding
+rs8097544	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs8101149	1	4	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ZC3H4	protein_coding
+rs8107974	2	10	4	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	SUGP1	protein_coding
+rs8108446	2	5	2	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	LPPR3	protein_coding
+rs815843	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TLE1	protein_coding
+rs8179	1	1	1	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	CDK6	protein_coding
+rs8179236	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	GCKR	protein_coding
+rs826949	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	MYBL2	protein_coding
+rs832186	2	6	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	C3orf49	protein_coding
+rs833067	2	24	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	VEGFA	protein_coding
+rs844215	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs860262	1	3	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	JAZF1	protein_coding
+rs861293	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs869400	2	12	3	0	0	0	0	1	0	1	0	1	0	0	0	0	0	0	1	0	5_prime_UTR_variant	ETV5	protein_coding
+rs8756	1	2	2	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	HMGA2	protein_coding
+rs878521	2	22	4	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	YKT6	protein_coding
+rs879882	5	41	4	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	POU5F1	protein_coding
+rs883541	2	8	3	1	1	0	0	1	0	1	0	0	0	0	0	0	1	0	1	1	missense_variant	WIPI1	protein_coding
+rs887609	2	8	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	MNX1	protein_coding
+rs889292	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs917195	1	6	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	CRHR2	protein_coding
+rs924150	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	TSHZ3	protein_coding
+rs924753	1	3	2	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	ANKRD28	protein_coding
+rs926091	1	2	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	PTEN	protein_coding
+rs9287852	1	9	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	SLC38A11	protein_coding
+rs9296294	1	9	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	KIF6	protein_coding
+rs9301365	0	0	0	0	0	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	regulatory_region_variant		
+rs9316500	2	19	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	RP11-175B12.2	lincRNA
+rs9316706	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs9321595	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs935112	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	CCK	protein_coding
+rs9358336	1	2	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	E2F3	protein_coding
+rs9358927	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs9366994	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	GLP1R	protein_coding
+rs9375411	2	6	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	NCOA7	protein_coding
+rs9376353	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	NHSL1	protein_coding
+rs9376382	2	5	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ECT2L	protein_coding
+rs9379084	1	5	1	1	1	0	0	0	0	0	1	0	0	0	0	0	1	0	1	1	missense_variant	RREB1	protein_coding
+rs9382231	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs9397581	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RGS17	protein_coding
+rs9459835	2	5	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	FGFR1OP	protein_coding
+rs9465936	1	3	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	CDKAL1	protein_coding
+rs9512696	3	22	5	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	AL137059.1	pseudogene
+rs9521510	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	IRS2	protein_coding
+rs952472	1	5	2	0	0	0	0	0	0	0	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	HMG20A	protein_coding
+rs9532707	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ELF1	protein_coding
+rs9561488	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	GPC6	protein_coding
+rs9564268	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs9565549	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs9568868	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs9591408	1	1	1	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	1	0	upstream_gene_variant	LINC00423	lincRNA
+rs9598088	1	6	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	DIAPH3	protein_coding
+rs9641219	2	3	2	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	GSAP	protein_coding
+rs9641233	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	LMTK2	protein_coding
+rs9672505	1	4	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SV2B	protein_coding
+rs96844	2	3	3	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	MAP3K1	protein_coding
+rs9687846	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AC022431.2	protein_coding
+rs9723065	1	3	1	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	1	0	downstream_gene_variant	WNT7B	protein_coding
+rs980329	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-444A22.1	lincRNA
+rs9808924	1	7	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	IGF2BP2	protein_coding
+rs9815266	1	7	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	SLMAP	protein_coding
+rs9818385	1	2	2	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	NUP210	protein_coding
+rs9822860	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs9854955	2	2	1	0	0	0	0	0	0	1	1	0	0	0	0	0	0	0	1	0	upstream_gene_variant	RP11-6F2.5	lincRNA
+rs9873341	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs9873519	1	5	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	SLC12A8	protein_coding
+rs9877493	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs9878031	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs9878064	1	1	1	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	AC144521.1	antisense
+rs9880763	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs9889137	2	14	3	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	LMF1	protein_coding
+rs9893867	2	11	5	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	SLC43A2	protein_coding
+rs9895455	2	11	4	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	FN3KRP	protein_coding
+rs9900150	4	7	4	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	MED31	protein_coding
+rs9927842	3	13	3	0	0	0	0	1	0	1	1	0	0	0	0	0	0	0	1	0	intron_variant	RRN3	protein_coding
+rs9929710	2	2	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	PDILT	protein_coding
+rs9932196	2	12	2	0	0	0	0	1	0	1	1	0	1	0	0	0	0	0	1	0	3_prime_UTR_variant	TAOK2	protein_coding
+rs9937296	1	5	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	intron_variant	ZFPM1	protein_coding
+rs9948462	2	3	3	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	non_coding_transcript_exon_variant	LAMA1	protein_coding
+rs9957320	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
+rs9977825	3	12	4	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	ADARB1	protein_coding
+rs9983528	1	5	2	0	0	0	0	1	0	0	1	0	0	0	0	0	0	0	1	0	intron_variant	PCNT	protein_coding
+rs9987289	1	4	1	0	0	0	0	1	0	1	0	0	0	0	0	0	0	0	1	0	intron_variant	RP11-115J16.1	lincRNA
+rs999976	0	0	0	0	0	0	0	0	1	0	0	0	0	0	0	0	0	0	0	0	intergenic_variant		
